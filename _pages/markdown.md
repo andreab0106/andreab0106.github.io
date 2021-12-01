@@ -9,7 +9,7 @@ redirect_from:
 
 Academics 
 ---------
-## Thesis to obtain the degree of Balchiller in Economics, PUCP.
+### Thesis to obtain the degree of Balchiller in Economics, PUCP.
 In 2021 I will be starting the process of building my bachelor's thesis. The tentative topic is peer counseling as an intervention for the improvement of financial decisions with an experimental approach.
 
  Personals 
