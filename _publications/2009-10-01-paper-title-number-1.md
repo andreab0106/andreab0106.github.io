@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Digitalización de los hogares en el Perú 2012-2019: evolución, determinantes y pobreza monetaria"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The present work poses the following research questions: What are the determinants of the digitization categories in different households? How is the relationship between monetary poverty and the level of digitization of the household?'
+date: 2021-03-01
+venue: 'Boletín Económica N°07'
+paperurl: 'https://andreab0106.github.io/files/Articulo1.pdf'
+citation: 'Clavo A. & Mendoza R.(2021). &quot;Digitalización de los hogares en el Perú 2012-2019: evolución, determinantes y pobreza monetaria Number 7.&quot; <i>Boletin Economica 7</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The present work poses the following research questions: What are the determinants of the digitization categories in different households? How is the relationship between monetary poverty and the level of digitization of the household?
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]('https://andreab0106.github.io/files/Articulo1.pdf')
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Clavo A. & Mendoza R.(2021). "Digitalización de los hogares en el Perú 2012-2019: evolución, determinantes y pobreza monetaria Number 7." <i>Boletín Económica 7</i>. 1(1).

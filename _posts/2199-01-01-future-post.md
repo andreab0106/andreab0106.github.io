@@ -1,11 +1,14 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'LA INCLUSIÓN FINANCIERA: BARRERAS A LA OFERTA Y DEMANDA'
+date: 2021-03-13
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Inclusión Financiera
+  - Perú
+  - Alfabetización financiera
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Financial Inclusion has been a widely studied topic in many countries, especially since the last international financial crisis in 2008. And in Peru, what is its current situation? In this article I briefly describe the objectives, importance and the situation in terms of supply and demand of the Financial System to achieve inclusion in it.
+
+### An article for the Economica website. 
+[Link](https://economica.pe/la-inclusion-financiera-barreras-a-la-oferta-y-demanda/)
