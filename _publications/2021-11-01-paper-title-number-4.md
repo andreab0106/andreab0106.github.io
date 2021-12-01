@@ -10,6 +10,6 @@ paperurl: 'https://andreab0106.github.io/files/Ensayo1.pdf'
 ---
 This essay conducts an exhaustive theoretical review and discusses the reasons why the poverty indicator and cognitive ability can be considered as a dual causality problem. 
 
-[Download paper here](http://academicpages.github.io/files/Ensayo1.pdf)
+[Download paper here]('http://academicpages.github.io/files/Ensayo1.pdf')
 
-NOTE: It's an essay to the course Deontología, PUCP.
+### NOTE: It's an essay to the course Deontología, PUCP.
