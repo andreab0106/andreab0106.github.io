@@ -1,7 +1,7 @@
 ---
 title: "El crédito agrícola, ¿un instrumento político que ayudó a combatir la pobreza monetaria del Perú rural?"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2019-06-01-paper-title-number-2
 excerpt: 'This research paper presents agricultural credit and its influence on the reduction of rural monetary poverty during two governments that are opposites in terms of economic policy, Alan García and Alberto Fujimori.'
 date: 2019-06-12
 #venue: 'Journal 1'
