@@ -15,3 +15,5 @@ I am an student of Economics in the Faculty of Social Sciences, PUCP, with speci
 
 ## This page
 In this profile you will find some of my research publications, Python, Stata and Eviews codes I have worked with, and future academic and personal projects. 
+
+If you want to communicate with me, you can use my email. I am always attentive to this!
