@@ -4,7 +4,7 @@ excerpt: "In this section you will find a [repository](https://github.com/andrea
 collection: portfolio
 ---
 
-In this section you will find a [repository](https://github.com/andreab0106/Causal-Inference-and-Machine-Learning-Course-)of the Applied Statistics course I took as an undergraduate at PUCP. The course was taught to provide us with the necessary tools for all those who are starting in Machine Learning.
+In this section you will find a [repository](https://github.com/andreab0106/Causal-Inference-and-Machine-Learning-Course-) of the Applied Statistics course I took as an undergraduate at PUCP. The course was taught to provide us with the necessary tools for all those who are starting in Machine Learning.
 
 Below I will detail in a summarized way what you will find in each folder of the repository. 
 
