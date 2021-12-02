@@ -4,6 +4,9 @@ excerpt: "In this section you will find a [repository](https://github.com/andrea
 collection: portfolio
 ---
 
+In this section you will find a [repo](https://github.com/andreab0106/Eviews-) of some codes in Programs explain in Spanish. For the moment, I have only ARMA models, but very soon there will be more time series topics to develop. 
+
+
 
 
 
